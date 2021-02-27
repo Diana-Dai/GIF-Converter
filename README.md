@@ -2,4 +2,4 @@
 PURE FRONT-END VIDEO TO GIF CONVERTER
 
 
-Demo: [here](https://github.com/Diana-Dai/GIF-Converter)
+Demo: [here](https://diana-dai.github.io/GIF-Converter/)
